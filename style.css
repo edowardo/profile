@@ -53,6 +53,11 @@ a:hover {
 
 .sm-pink {
   font-size: 50px;
+  transition: all 5s;
+}
+
+.sm-pink:hover {
+  transform: rotate(1080deg);
 }
 
 .embedded-video {
