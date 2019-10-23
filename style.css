@@ -2,7 +2,7 @@ body {
   background-color: #e1eafa;
   color: ;
   font-family: 'Rubik', sans-serif;
-  font-color: rgb(200,200,200);
+  font-color: #003554;
 }
 
 h1, h2 {
@@ -16,8 +16,13 @@ h1 {
   line-height: 20px;
 }
 
+p {
+  color: #005080;
+  font-size: 16px;
+}
+
 a {
-  color: #E3C0D3;
+  color: #e8acd0;
   text-decoration: none;
 }
 a:hover {
@@ -25,15 +30,14 @@ a:hover {
 }
 
 .button-pink {
-  color: white;
-  background-color: #E3C0D3;
-  padding: 16px;
+  padding: 12px;
   display: inline-block;
-  border-radius: 3px;
+  border-radius: 5px;
+  border: 1px solid #e8acd0;
 }
 .button-pink:hover {
-  color: white;
-  background-color: #95818D;
+  color: #e8acd0;
+  background-color: #fff7fc;
 }
 
 
