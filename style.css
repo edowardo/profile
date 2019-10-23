@@ -1,6 +1,6 @@
 body {
-  background-color: #e1eafa;
-  color: ;
+  background: rgb(101,126,161);
+  background: linear-gradient(125deg, rgba(101,126,161,1) 0%, rgba(163,180,200,1) 50%, rgba(204,214,223,1) 100%);
   /*font-family: 'Rubik', sans-serif;*/
   font-family: "Sawarabi Mincho";
 
@@ -26,7 +26,7 @@ p {
 }
 
 a {
-  color: #e8acd0;
+  color: #d190b7;
   text-decoration: none;
 }
 a:hover {
@@ -37,10 +37,10 @@ a:hover {
   padding: 12px;
   display: inline-block;
   border-radius: 5px;
-  border: 1px solid #e8acd0;
+  border: 1px solid #d190b7;
 }
 .button-pink:hover {
-  color: #e8acd0;
+  color: #d190b7;
   background-color: #fff7fc;
 }
 
